@@ -25,7 +25,7 @@ Dataset containing all the tweets collected between September 18- September 24
 8) chessTweets_S25-O01.csv:
 Dataset containing all the tweets collected between September 25- October 01
 
-#src folder contains the notebook file
+## src folder contains the notebook file
 
 1) Twitter_StanceAnalysis.ipynb: 
 Notebook containing preliminary stance analysis of tweets.
