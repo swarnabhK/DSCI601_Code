@@ -13,7 +13,7 @@ Comments on what each cell does are present in the notebook.
 For the dataframe containing 700 tweets(df_stance dataframe), it took us 44.38 minutes. 
 
 # Dataset information
-## Data folder includes the following files
+## Data folder includes the following files:
 1) AllYoutubeComments.csv:
 Dataset containing all the comments scraped from Youtube.
 2) chessTweets_O02-O08:
@@ -33,8 +33,11 @@ Dataset containing all the tweets collected between September 25- October 01.
 
 ## src folder contains the notebook file
 
+1) Twitter_StanceAnalysis.ipynb: 
+Notebook containing preliminary stance analysis of tweets.
+
+## doc folder contains code documentation:
+
 1) StanceAnalysisTwitter_final.html:
 Html file containing the comments and code from the notebook.
-2) Twitter_StanceAnalysis.ipynb: 
-Notebook containing preliminary stance analysis of tweets.
 
