@@ -27,8 +27,9 @@ Dataset containing all the tweets collected between September 25- October 01.
 
 ## src folder contains the notebook file
 
-1) Twitter_StanceAnalysis.ipynb: 
+1) StanceAnalysisTwitter_final.html:
+Html file containing the comments and code from the above notebook.
+
+2) Twitter_StanceAnalysis.ipynb: 
 Notebook containing preliminary stance analysis of tweets.
 
-2) StanceAnalysisTwitter_final.html:
-Html file containing the comments and code from the above notebook.
