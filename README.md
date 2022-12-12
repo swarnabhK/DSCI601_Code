@@ -5,7 +5,7 @@
 This step might take a while depending on whether the packages are already installed in the system.
 3) Upload the data: The datasets which are to be uploaded are present in the Data folder. Download them to your local system.
 Open the notebook and once inside, for uploading the datasets, click on the "Files" icon on the left of the screen. Next, click on upload to session storage.
-The dataset will get uploaded.
+The datasets will get uploaded.
 3) Import the data: import the dataset as required, as mentioned in the code cells of the notebook. 
 4) Run every cell in the notebook in order to replicate the results of Data Preprocessing, Data Exploration and Stance Analysis. 
 Comments on what each cell does are present in the notebook.
@@ -41,7 +41,7 @@ Dataset containing all the tweets collected between September 25- October 01.
 ## src folder contains the notebook file
 
 1) StanceAnalysisTwitter_final.html:
-Html file containing the comments and code from the above notebook.
+Html file containing the comments and code from the notebook.
 
 2) Twitter_StanceAnalysis.ipynb: 
 Notebook containing preliminary stance analysis of tweets.
