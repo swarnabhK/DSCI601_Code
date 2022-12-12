@@ -3,12 +3,14 @@
 1) Upload the notebook file in Google Colab.
 2) Install required libraries: tldextract, transformers, re, ast, time, string etc using !pip install <packagename> in a notebook cell.
 This step might take a while depending on whether the packages are already installed in the system.
-3) Import the data: The datasets which are to be imported are present in the Data folder. Please import 
-the dataset as required, as mentioned in the code cells of the notebook. 
+3) Upload the data: The datasets which are to be uploaded are present in the Data folder. Download them to your local system.
+Open the notebook and once inside, for uploading the datasets, click on the "Files" icon on the left of the screen. Next, click on upload to session storage.
+The dataset will get uploaded.
+3) Import the data: import the dataset as required, as mentioned in the code cells of the notebook. 
 4) Run every cell in the notebook in order to replicate the results of Data Preprocessing, Data Exploration and Stance Analysis. 
 Comments on what each cell does are present in the notebook.
 5) For stance analysis section in the notebook, it takes time to return the results of classification depending on the size of the dataset.
-For the dataframe containing 700 tweets(df_stance dataframe), it took us 44.38 minutes.
+For the dataframe containing 700 tweets(df_stance dataframe), it took us 44.38 minutes. 
 
 # Dataset information
 ## Data folder includes the following files
