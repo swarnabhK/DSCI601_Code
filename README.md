@@ -1,6 +1,6 @@
-# Instructions on running the Twitter_StanceAnalysis.ipynb:
+# Instructions on running the Twitter_StanceAnalysis.ipynb notebook:
 
-1) Upload the file in Google Colab.
+1) Upload the notebook file in Google Colab.
 2) Install required libraries: tldextract, transformers, re, ast, time, string etc using pip install.
 This step might take a while depending on whether the packages are already installed in the system.
 3) Import the data: The datasets which are to be imported are present in the Data folder. Please import 
