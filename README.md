@@ -31,4 +31,4 @@ Dataset containing all the tweets collected between September 25- October 01.
 Notebook containing preliminary stance analysis of tweets.
 
 2) StanceAnalysisTwitter_final.html:
-Htnl file containing the comments and code from the above notebook.
+Html file containing the comments and code from the above notebook.
